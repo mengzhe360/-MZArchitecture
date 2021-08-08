@@ -1,6 +1,0 @@
-framework module MZPublibs {
-  umbrella header "MZPublibs-umbrella.h"
-
-  export *
-  module * { export * }
-}
