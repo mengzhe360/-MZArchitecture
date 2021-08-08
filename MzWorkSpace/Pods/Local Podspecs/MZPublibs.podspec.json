@@ -3,14 +3,14 @@
   "version": "1.0.0",
   "summary": "Design components",
   "description": "Contains the decomponents for Design System.",
-  "homepage": "https://github.com/mengzhe360/MZCocoaPods.git",
+  "homepage": "https://github.com/mengzhe360/MZArchitecture.git",
   "license": "MIT",
   "authors": "MIT",
   "source": {
     "path": "."
   },
   "platforms": {
-    "ios": "9.0"
+    "ios": "10.0"
   },
   "swift_versions": "5.3",
   "source_files": "src/**/*",

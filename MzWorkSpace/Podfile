@@ -28,6 +28,7 @@ end
 def thirdparty_pods
   
   pod 'YYModel'
+  pod 'MQTTClient'
   
 end
 
@@ -48,6 +49,7 @@ target 'app_A' do
   project 'app_A/app_A.xcodeproj'
   core_pods
   internal_pods
+  thirdparty_pods
   
 end
 
@@ -59,6 +61,20 @@ target 'app_B' do
   thirdparty_pods
   internal_pods
   
+end
+
+target 'MZBaseKit' do
+  project 'MZBaseKit/MZBaseKit.xcodeproj'
+  internal_pods
+  thirdparty_pods
+ 
+end
+
+target 'MZNetworkKit' do
+  project 'MZNetworkKit/MZNetworkKit.project'
+  internal_pods
+  thirdparty_pods
+ 
 end
 
 
