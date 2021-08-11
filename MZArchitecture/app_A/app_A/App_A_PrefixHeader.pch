@@ -13,6 +13,7 @@
 // You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
 #import <MZPublibs.h>
 #import <MZBaseKit/MZBaseKitTest.h>
+#import <MZNetworkKit/MZNetworkText.h>
 
 
 #endif /* App_A_PrefixHeader_pch */

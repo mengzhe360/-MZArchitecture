@@ -21,7 +21,11 @@
     
     [test mzBaseKitTest];
     
-    [self performClassName:@"MZBaseKitTest" selector:@"mzBaseKitTest" objects:@[] type:kInstanceMethod];
+    MZNetworkText *test1 = [[MZNetworkText alloc] init];
+    
+    [test1 mzNetworkText];
+    
+//    [self performClassName:@"MZNetworkText" selector:@"mzNetworkText" objects:@[] type:kInstanceMethod];
     
 
     
