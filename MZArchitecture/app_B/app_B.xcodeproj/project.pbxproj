@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		51A98F9CCDE918D29F35281A /* Pods_app_B.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AE82A389035619EDA7749F76 /* Pods_app_B.framework */; };
 		E7BFDA1726BEF71C0083B18A /* MZToolB.m in Sources */ = {isa = PBXBuildFile; fileRef = E7BFDA1626BEF71C0083B18A /* MZToolB.m */; };
-		E7BFDC4226BFEC0F0083B18A /* MZBaseKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E7BFDC4126BFEC0F0083B18A /* MZBaseKit.framework */; };
 		E7BFDC4326BFEC0F0083B18A /* MZBaseKit.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = E7BFDC4126BFEC0F0083B18A /* MZBaseKit.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		E7EB37F226BDA6880048A8EE /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E7EB37F126BDA6880048A8EE /* AppDelegate.m */; };
 		E7EB37F526BDA6880048A8EE /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E7EB37F426BDA6880048A8EE /* SceneDelegate.m */; };
@@ -87,7 +86,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				51A98F9CCDE918D29F35281A /* Pods_app_B.framework in Frameworks */,
-				E7BFDC4226BFEC0F0083B18A /* MZBaseKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
