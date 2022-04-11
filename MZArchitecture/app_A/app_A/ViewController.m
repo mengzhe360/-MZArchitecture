@@ -27,9 +27,7 @@
     
 //    [self performClassName:@"MZNetworkText" selector:@"mzNetworkText" objects:@[] type:kInstanceMethod];
     
-    //test1
-    
-
+    //第二次
     
 }
 
