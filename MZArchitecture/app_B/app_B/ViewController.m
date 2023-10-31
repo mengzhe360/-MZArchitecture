@@ -21,6 +21,10 @@
     
     [test mzBaseKitTest];
     
+    MZNetworkText *test1 = [[MZNetworkText alloc] init];
+    
+    [test1 mzNetworkText];
+    
     
     
 }

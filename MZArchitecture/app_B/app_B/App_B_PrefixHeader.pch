@@ -14,5 +14,6 @@
 
 #import <MZPublibs.h>
 #import <MZBaseKit/MZBaseKitTest.h>
+#import <MZNetworkKit/MZNetworkText.h>
 
 #endif /* App_B_PrefixHeader_pch */

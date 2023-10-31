@@ -34,7 +34,6 @@
 		E7BFDBBA26BFE07E0083B18A /* MZBaseKitPrefixHeader.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MZBaseKitPrefixHeader.pch; sourceTree = "<group>"; };
 		E7BFDBD426BFE2230083B18A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E7BFDBED26BFE6C10083B18A /* MQTTClient.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = MQTTClient.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		E7BFDBFB26BFE9410083B18A /* MQTTClient.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = MQTTClient.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		FE41A2113C94D95DCB2014CC /* Pods-MZBaseKit.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MZBaseKit.release.xcconfig"; path = "Target Support Files/Pods-MZBaseKit/Pods-MZBaseKit.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -53,7 +52,6 @@
 		5AD0AEC8B7736B97AE814D9D /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				E7BFDBFB26BFE9410083B18A /* MQTTClient.framework */,
 				E7BFDBED26BFE6C10083B18A /* MQTTClient.framework */,
 				418817148793F00A86A242AE /* Pods_MZBaseKit.framework */,
 			);
